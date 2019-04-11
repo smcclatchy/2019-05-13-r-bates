@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""
 venue: "R for Reproducible Scientific Analysis"
-address: "Bates College, 2 Andrews Road, Lewiston, Maine"
+address: "Benjamin Mays Center, Bates College, 2 Andrews Road, Lewiston, Maine"
 country: "us"
 language: "en"
 latlng: "44.105721, -70.202187"
@@ -10,7 +10,7 @@ humandate: "May 13-14, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-05-13
 enddate: 2019-05-14
-instructor: ["Sue McClatchy", "TBD"]
+instructor: ["Sue McClatchy", "Duy Pham", "Andrew Deighan", "Alex Berger"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
